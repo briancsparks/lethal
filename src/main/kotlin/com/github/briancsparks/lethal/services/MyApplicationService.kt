@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.briancsparks.lethal.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.briancsparks.lethal.MyBundle
 
 class MyApplicationService {
 
